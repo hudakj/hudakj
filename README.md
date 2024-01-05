@@ -12,18 +12,15 @@
   - [Assignment 4](link)<b><i>(Given a Binary Tree, this program finds the height of the tree, total number of nodes in the tree, finds if the tree is complete or not, and converts the Binary Tree into a Binary Search Tree)</b></i>
   - [Assignment 5](link)<b><i>(Check if a binary tree is a min-heap or not and find the k'th largest element in an array)</b></i>
  
-
-- <b>Operating System Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Ruby Projects</b>
-  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework1b)<b><i>(Append line number to inputted text)</b></i>
-  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework2)<b><i>(Creating an ADT Bag)</b></i>
+  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework1b)
+  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework2)
 - <b>Scala Projects</b>
-  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework3)<b><i>(Creating an ADT Bag)</b></i>
-  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework4)<b><i>(Creating an ADT Bag)</b></i>
+  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework3)
+  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework4)
 - <b>Haskel Projects</b>
-  - [Assignment 1](link)<b><i>(Creating an ADT Bag)</b></i>
-
+  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework5)
+  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework6)
 
 <h2> 🤳 Connect with me:</h2>
 
