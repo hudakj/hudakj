@@ -19,8 +19,8 @@
   - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework1b)<b><i>(Append line number to inputted text)</b></i>
   - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework2)<b><i>(Creating an ADT Bag)</b></i>
 - <b>Scala Projects</b>
-  - [Assignment 1](link)<b><i>(Creating an ADT Bag)</b></i>
-  - [Assignment 2](link)<b><i>(Creating an ADT Bag)</b></i>
+  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework3)<b><i>(Creating an ADT Bag)</b></i>
+  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework4)<b><i>(Creating an ADT Bag)</b></i>
 - <b>Haskel Projects</b>
   - [Assignment 1](link)<b><i>(Creating an ADT Bag)</b></i>
 
