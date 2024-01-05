@@ -15,7 +15,7 @@
 
 - <b>Operating System Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Ruby Porjects</b>
+- <b>Ruby Projects</b>
   - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework1b)<b><i>(Append line number to inputted text)</b></i>
   - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework2)<b><i>(Creating an ADT Bag)</b></i>
 - <b>Scala Projects</b>
