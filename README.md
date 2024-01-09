@@ -3,6 +3,12 @@
 <h2>👨‍💻 School Projects:</h2>
 
 -<b>
+- <b> Data Structures Pojects</b>
+  - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%201)<b><i>(Creating an ADT Bag)</b></i>
+  - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%202)<b><i>(Using Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort)</b></i>
+  - [Assignment 3](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%203)<b><i>(Using Stack and Nodes to implemennt a Postfix Expression Evaluator)</b></i>
+  - [Assignment 4](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%204)<b><i>(Given a Binary Tree, this program finds the height of the tree, total number of nodes in the tree, finds if the tree is complete or not, and converts the Binary Tree into a Binary Search Tree)</b></i>
+  - [Assignment 5](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%205)<b><i>(Check if a binary tree is a min-heap or not and find the k'th largest element in an array)</b></i>
 
 - <b>Ruby Projects</b>
   - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework1b)
