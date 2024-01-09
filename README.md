@@ -4,22 +4,6 @@
 
 -<b>
 
-- <b> Algorithms Pojects</b>
-  - [Assignment 1](link)<b><i>(Creating an ADT Bag)</b></i>
-  - [Assignment 2](link)<b><i>(Using Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort)</b></i>
-  - [Assignment 3](link)<b><i>(Using Stack and Nodes to implemennt a Postfix Expression Evaluator)</b></i>
-  - [Assignment 4](link)<b><i>(Given a Binary Tree, this program finds the height of the tree, total number of nodes in the tree, finds if the tree is complete or not, and converts the Binary Tree into a Binary Search Tree)</b></i>
-  - [Assignment 5](link)<b><i>(Check if a binary tree is a min-heap or not and find the k'th largest element in an array)</b></i>
- 
-
-
-- <b> Data Structures Pojects</b>
-  - [Assignment 1](link)<b><i>(Creating an ADT Bag)</b></i>
-  - [Assignment 2](link)<b><i>(Using Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort)</b></i>
-  - [Assignment 3](link)<b><i>(Using Stack and Nodes to implemennt a Postfix Expression Evaluator)</b></i>
-  - [Assignment 4](link)<b><i>(Given a Binary Tree, this program finds the height of the tree, total number of nodes in the tree, finds if the tree is complete or not, and converts the Binary Tree into a Binary Search Tree)</b></i>
-  - [Assignment 5](link)<b><i>(Check if a binary tree is a min-heap or not and find the k'th largest element in an array)</b></i>
- 
 - <b>Ruby Projects</b>
   - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework1b)
   - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203060%20Projects/Homework2)
