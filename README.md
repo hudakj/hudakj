@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 School Projects:</h2>
 
--<b> AI Project
-- [Sudoku AI Project](https://github.com/hudakj/SchoolProjects/blob/main/SudokuFinal.ipynb)
+- <b> AI Project </b>
+  - [Sudoku AI Project](https://github.com/hudakj/SchoolProjects/blob/main/SudokuFinal.ipynb)
 - <b> Data Structures Pojects</b>
   - [Assignment 1](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%201)<b><i>(Creating an ADT Bag)</b></i>
   - [Assignment 2](https://github.com/hudakj/SchoolProjects/tree/main/CS%203350%20Projects/Assignment%202)<b><i>(Using Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort)</b></i>
